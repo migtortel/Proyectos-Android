@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Comidas</string>
+
+    <string name="Home">Home</string>
+    <string name="Detail">Detail</string>
+
+    <string name="japanese_food">Comida Japonesa</string>
+    <string name="mexican_food">Comida Mexicana</string>
+    <string name="italian_food">Comida Italiana</string>
+    <string name="libanese_food">Comida Libanesa</string>
+    <string name="usa_food">Comida de USAs</string>
+    <string name="chinese_food">Comida China</string>
+
+
+    <string name="sushi_prev">Fresca, simple, elegante y de sabores equilibrados.</string>
+
+    <string name="sushi_Description">La comida japonesa es conocida por su frescura, simplicidad y elegancia.
+        Se caracteriza por el uso de ingredientes frescos y de alta calidad, como pescado crudo, arroz, algas marinas, vegetales frescos y tofu.
+        Los platos típicos incluyen sushi, sashimi, tempura, yakitori, ramen y donburi.
+        La presentación de los platos es meticulosa y se valora tanto como su sabor, reflejando la estética japonesa de la atención al detalle.
+        La comida japonesa también se centra en el equilibrio de sabores y texturas, con énfasis en la frescura y la estacionalidad de los ingredientes.</string>
+
+    <string name="mexi_prev">Sabrosa, picante, colorida, tradicional, diversa, vibrante, auténtica, deliciosa.</string>
+
+    <string name="mexican_Description">La comida mexicana es una fusión vibrante de sabores, colores y texturas que reflejan la rica historia y diversidad cultural del país.
+        Se caracteriza por el uso de ingredientes frescos y auténticos como maíz, frijoles, chiles, aguacates, tomates y diversas especias.
+        Los platos típicos incluyen tacos, tamales, enchiladas, mole, guacamole y pozole, entre otros.
+        La cocina mexicana varía de una región a otra, cada una con sus propias especialidades y técnicas culinarias, pero en general, se destaca por su sabor audaz, su picante distintivo y su capacidad para satisfacer los paladares más exigentes.
+        La comida mexicana es una celebración de la vida, la familia y la comunidad.</string>
+
+    <string name="italian_prev">Simplicidad, frescura, calidad, pasta, pizza, tradición, variedad.</string>
+
+    <string name="italian_Description">La comida italiana es una deliciosa expresión culinaria que se caracteriza por su simplicidad, frescura y calidad de ingredientes.
+        Basada en productos locales como pasta, tomates, aceite de oliva, queso y hierbas frescas, la cocina italiana ofrece una amplia variedad de platos regionales como pasta fresca, pizza, risotto, antipasti, y una gran variedad de deliciosos postres como el tiramisú y el gelato.
+        La comida italiana enfatiza los sabores naturales de los ingredientes, y su cultura gastronómica es un reflejo de la rica historia y tradiciones culinarias del país.
+        Es una cocina apreciada en todo el mundo por su sabor reconfortante y su capacidad de unir a las personas en torno a una buena mesa.</string>
+
+    <string name="indian_prev">Sabores, especias, diversidad, aromas, picante, colorida, tradicional.</string>
+
+    <string name="indian_Description">La comida india es una rica y diversa amalgama culinaria, caracterizada por una explosión de sabores, especias y colores. Basada en una amplia variedad de ingredientes como arroz, lentejas, especias aromáticas, verduras y carnes, la cocina india ofrece una increíble variedad de platos regionales, cada uno con sus propias técnicas de preparación y sabores únicos. Desde el picante y aromático curry hasta el reconfortante biryani, pasando por las tentadoras samosas y los dulces tradicionales como el gulab jamun, la comida india es una experiencia sensorial que cautiva los sentidos y celebra la diversidad cultural de la India.</string>
+
+    <string name="usa_prev">Diversidad, influencias, abundancia, icónica, fusiones, reconfortante, innovación.</string>
+    <string name="usa_Description">La comida de Estados Unidos es una fusión diversa de influencias culinarias, reflejando la multiculturalidad del país. Se destaca por su variedad y abundancia, con platos emblemáticos como hamburguesas, perritos calientes, costillas a la barbacoa, sándwiches, y platos sureños como pollo frito y macarrones con queso. Además, la comida estadounidense incluye una amplia gama de opciones internacionales, adaptadas y fusionadas con ingredientes locales. Es una cocina que abarca desde comidas reconfortantes y caseras hasta experiencias gastronómicas gourmet, reflejando la diversidad y la innovación de la cultura estadounidense.</string>
+
+    <string name="china_prev">Sabores, texturas, técnicas, variada, influencia, milenaria, armonía.</string>
+    <string name="china_Description">La comida china es una culinaria variada y milenaria, reconocida por su equilibrio de sabores, texturas y técnicas de cocción. Basada en una rica diversidad de ingredientes como arroz, fideos, carne, mariscos, verduras y una amplia variedad de condimentos y especias, la cocina china ofrece una impresionante gama de platos regionales, desde los sabrosos dim sum hasta los aromáticos platos al wok y los delicados platos al vapor. La comida china se caracteriza por su uso hábil de técnicas como saltear, freír, cocinar al vapor y estofar, así como por la importancia de la armonía y el equilibrio en los sabores. Es una cocina profundamente arraigada en la historia y la cultura china, que ha influido en muchas otras cocinas del mundo.</string>
+
+
+</resources>
